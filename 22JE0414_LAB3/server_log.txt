@@ -1,0 +1,7 @@
+[10:33:45] Andy joined the chat.
+[10:34:00] Andy: Hello
+[10:34:23] Harshit joined the chat.
+[10:34:33] Harshit: Hey this is Harshit here
+[10:40:04] Hulk joined the chat.
+[10:40:11] Hulk: Hello this is Hulk here
+[10:54:27] Andy: & C:/Users/students/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/students/Documents/Computer Networks/22JE0414_LAB3/client.py"
